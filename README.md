@@ -1,4 +1,5 @@
 # Newyears
+-----------------------------
 New year resolutions web app  
 Work in progress  
 Being build with django and python  
