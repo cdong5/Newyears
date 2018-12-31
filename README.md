@@ -1,8 +1,8 @@
 # Newyears
------------------------------
-New year resolutions web app 
-Work in progress 
-Being build with django and python 
+
+- New year resolutions web app  
+- Work in progress  
+- Being build with django and python  
 -----------------------------
 # Features
 1) Add/delete resolution
